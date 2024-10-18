@@ -4,12 +4,21 @@
 Download and install VMware Fusion from : [VMware 13.6.1 Download](https://support.broadcom.com/group/ecx/productfiles?subFamily=VMware%20Fusion&displayGroup=VMware%20Fusion%2013%20Pro%20for%20Personal%20Use&release=13.6.1&os=&servicePk=524470&language=EN)
 Download Ubuntu 20.04.5 Server from: [Ubuntu 20.0.4.5 Live Server ](https://cdimage.ubuntu.com/releases/20.04/release/ubuntu-20.04.5-live-server-arm64.iso)
 
+Click  "Install Ubuntu Server": 
+
+
+<img src="InstallOptions.png" alt="Install options" width="500">
+
 Open VMware Fusion and drag Ubuntu ISO file here: 
 
 
+<img src="DragDrop.png" alt="Drag/Drop" width="500">
 
-Enter Credentials *(This will be the information you enter to login to the Desktop)*
 
+Enter Credentials *(This will be the information you enter to login to the Desktop)*:
+
+
+<img src="credentials.png" alt="Credentials" width="500">
 
 
 Once Installed and Rebooted enter these commands in the terminal: 
